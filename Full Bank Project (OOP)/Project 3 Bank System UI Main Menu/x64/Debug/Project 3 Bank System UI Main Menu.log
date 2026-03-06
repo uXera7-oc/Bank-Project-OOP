@@ -1,0 +1,62 @@
+﻿  Project 3 Bank System UI Main Menu.cpp
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsString.h(54,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsString.h(390,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsString.h(495,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsString.h(510,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsString.h(515,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsString.h(524,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsString.h(533,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsUtil.h(206,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsBankClient.h(349,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsBankClient.h(361,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsAddNewClientScreen.h(33,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsUpdateClientScreen.h(33,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsTotalBalancesScreen.h(64,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsTransferScreen.h(47,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsTransferScreen.h(54,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsCurrency.h(28,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsUpdateCurrencyRateScreen.h(19,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsCurrencyCalculatorScreen.h(18,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20Bank%20System%20UI%20Main%20Menu.cpp')
+  
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsBankClient.h(297,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\LogFile.h(77,1): warning C4715: 'LogFile::ReadAllLogs': not all control paths return a value
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsBankClient.h(364,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\TransferLog.h(75,1): warning C4715: 'TransferLog::ReadAllTransferLogs': not all control paths return a value
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsUser.h(291,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\Project 3 Bank System UI Main Menu\clsCurrency.h(183,1): warning C4715: 'clsCurrency::FindByCode': not all control paths return a value
+  Project 3 Bank System UI Main Menu.vcxproj -> C:\Users\USER PC\source\repos\Project 3 Bank System UI Main Menu\x64\Debug\Project 3 Bank System UI Main Menu.exe
